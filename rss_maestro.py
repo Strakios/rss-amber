@@ -115,7 +115,7 @@ def generar_rss(tipo, config):
         if guid in anteriores:
             pubdate = anteriores[guid]
         else:
-            hora_estim = last_build_prev + intervalo * indice
+            hora_estim = last_build_prev + intervalo * (total_nuevas - 1 - indice)  # Invierte el orden de horas
             pubdate = datetime(
                 year=f["fecha"].year,
                 month=f["fecha"].month,
