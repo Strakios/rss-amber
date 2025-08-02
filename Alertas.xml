@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Alertas AMBER - Fiscalía General de Quintana Roo</title>
+    <link>https://www.fgeqroo.gob.mx/alertas/Amber</link>
+    <description>Casos de Alerta AMBER vigentes en Quintana Roo</description>
+    <language>es-mx</language>
+    <lastBuildDate>Sat, 02 Aug 2025 00:00:00 -0500</lastBuildDate>
+
+    <item>
+      <title>Gabriela Marisol Collí Gerónimo - 2025/06/11</title>
+      <link>https://www.fgeqroo.gob.mx/alertas/Amber/GABRIELA-MARISOL-COLLI</link>
+      <guid isPermaLink="true">https://www.fgeqroo.gob.mx/alertas/Amber/GABRIELA-MARISOL-COLLI</guid>
+      <pubDate>Wed, 11 Jun 2025 00:00:00 -0500</pubDate>
+      <description>
+        &lt;strong&gt;Gabriela Marisol Collí Gerónimo&lt;/strong&gt;&lt;br/&gt;
+        Fecha de desaparición: 2025/06/11&lt;br/&gt;
+        &lt;img src='https://www.fgeqroo.gob.mx/storage/app/media/Servicio Social/Amber/GABRIELA%20MARISOL%20COLLI%20GERONIMO%20AMBER.jpeg' width='300' /&gt;
+      </description>
+      <content:encoded><![CDATA[
+<strong>Gabriela Marisol Collí Gerónimo</strong><br/>
+Fecha de desaparición: 2025/06/11<br/>
+<img src="https://www.fgeqroo.gob.mx/storage/app/media/Servicio Social/Amber/GABRIELA%20MARISOL%20COLLI%20GERONIMO%20AMBER.jpeg" width="300" />
+      ]]></content:encoded>
+    </item>
+
+  </channel>
+</rss>
