@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>es</language>
-    <lastBuildDate>Sat, 27 Jun 2026 18:07:45 -0500</lastBuildDate>
+    <lastBuildDate>Sat, 27 Jun 2026 18:10:02 -0500</lastBuildDate>
     <item>
       <title>José Alberto May Pat - Señor, Quintana Roo.</title>
       <link>https://www.fgeqroo.gob.mx/storage/app/media/Servicio Social/Amber/20260414_JoseAlbertoMayPat_AA.jpeg</link>
@@ -175,6 +175,13 @@
       <description>&lt;img src='https://www.fgeqroo.gob.mx/storage/app/media/Servicio Social/Amber/N.jpeg' width='600' /&gt;&lt;br&gt;&lt;strong&gt;Hechos:&lt;/strong&gt; Se solicita el apoyo para la búsqueda y localización del menor “N” , quien fue visto por última vez en el 26 de junio de 2026, en Cancún, Quintana Roo. Se presume NO LOCALIZADO. Al momento de su desaparición vestía traje de color azul con dibujo de jirafa y sábana de color azul con dibujos de elefante.</description>
       <guid isPermaLink="true">https://www.fgeqroo.gob.mx/storage/app/media/Servicio Social/Amber/N.jpeg</guid>
       <pubDate>Sat, 27 Jun 2026 18:00:02 -0500</pubDate>
+    </item>
+    <item>
+      <title>Perla Esmeralda Espinosa Cauich - Cancún, Quintana Roo.</title>
+      <link>https://www.fgeqroo.gob.mx/storage/app/media/Servicio Social/Amber/PERLA ESMERALDA ESPINOSA CAUICH amber.jpeg</link>
+      <description>&lt;img src='https://www.fgeqroo.gob.mx/storage/app/media/Servicio Social/Amber/PERLA ESMERALDA ESPINOSA CAUICH amber.jpeg' width='600' /&gt;&lt;br&gt;&lt;strong&gt;Hechos:&lt;/strong&gt; Se solicita el apoyo para la búsqueda y localización de la adolescente PERLA ESMERALDA ESPINOSA CAUICH, quien fue vista por última vez en el 26 de junio de 2026, en Cancún, Quintana Roo. Se presume NO LOCALIZADA. Al momento de su desaparición vestía blusa color gris, falda larga de color azul floreada y chanclas blancas con piedras.</description>
+      <guid isPermaLink="true">https://www.fgeqroo.gob.mx/storage/app/media/Servicio Social/Amber/PERLA ESMERALDA ESPINOSA CAUICH amber.jpeg</guid>
+      <pubDate>Sat, 27 Jun 2026 18:07:45 -0500</pubDate>
     </item>
   </channel>
 </rss>
