@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>es</language>
-    <lastBuildDate>Tue, 28 Jul 2026 19:40:16 -0500</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jul 2026 14:57:24 -0500</lastBuildDate>
     <item>
       <title>José Alejandro Pacheco Chan - Señor, Quintana Roo.</title>
       <link>https://www.fgeqroo.gob.mx/storage/app/media/Servicio Social/Personas Extraviadas/20251127_JoseAlejandroPachecoChan_EXT.jpeg</link>
@@ -79,13 +79,6 @@
       <pubDate>Mon, 08 Dec 2025 12:34:36 -0500</pubDate>
     </item>
     <item>
-      <title>Isidro Osorio Ramírez - Cancún, Quintana 5, Roo</title>
-      <link>https://www.fgeqroo.gob.mx/storage/app/media/Servicio Social/Personas Extraviadas/ISIDRO OSORIO RAMIREZ SS OKOK 9dic25.jpg</link>
-      <description>&lt;img src='https://www.fgeqroo.gob.mx/storage/app/media/Servicio Social/Personas Extraviadas/ISIDRO OSORIO RAMIREZ SS OKOK 9dic25.jpg' width='600' /&gt;&lt;br&gt;&lt;strong&gt;Hechos:&lt;/strong&gt; Se solicita el apoyo para la búsqueda y localización del C. ISIDRO OSORIO RAMIREZ, quien fue visto por Última vez en Cancún, Quintana Roo, mismo que se encuentra desaparecido desde el día 3 de Diciembre del 2025, sin que hasta el momento se sepa sobre su paradero. Al momento de su desaparición vestía playera verde, pantalón de e ate</description>
-      <guid isPermaLink="true">https://www.fgeqroo.gob.mx/storage/app/media/Servicio Social/Personas Extraviadas/ISIDRO OSORIO RAMIREZ SS OKOK 9dic25.jpg</guid>
-      <pubDate>Tue, 09 Dec 2025 12:34:49 -0500</pubDate>
-    </item>
-    <item>
       <title>Matías Juan Pascual - Cancún, Quintana Roo.</title>
       <link>https://www.fgeqroo.gob.mx/storage/app/media/Servicio Social/Personas Extraviadas/matias-juan-pascual-ss-9dic25.jpg</link>
       <description>&lt;img src='https://www.fgeqroo.gob.mx/storage/app/media/Servicio Social/Personas Extraviadas/matias-juan-pascual-ss-9dic25.jpg' width='600' /&gt;&lt;br&gt;&lt;strong&gt;Hechos:&lt;/strong&gt; Se solicita el apoyo para la búsqueda y localización del C. MATIAS JUAN PASCUAL, quien fue visto por Última vez en Cancún, Quintana Roo, mismo que se encuentra desaparecido desde el día 22 de Noviembre del 2025, sin que hasta el momento se sepa sobre su paradero. Al momento de su desaparición vestía una camisa verde, pantalón azul marino y botas de casquillo y llevaba consigo un fumigador de 4 litros.</description>
@@ -98,6 +91,13 @@
       <description>&lt;img src='https://www.fgeqroo.gob.mx/storage/app/media/Servicio Social/Personas Extraviadas/20251209_AbnerAzarielCatzinMay.jpeg' width='600' /&gt;&lt;br&gt;&lt;strong&gt;Hechos:&lt;/strong&gt; Se solicita el apoyo para la búsqueda y localización del C. ABNER AZARIEL CATZIN MAY, fue visto por última vez en la localidad de Chunhuhub, municipio de Felipe Canillo Puerto, Quintana Roo, mismo que se encuentra desaparecido desde el día 08 de diciembre del año 2025, sin que hasta el momento se sepa sobre su paradero. Al momento de su desaparición vestía camisa de rayas de color blanco, negro y rojo vino, pantalón de mezclilla y sandalias sin especificar color</description>
       <guid isPermaLink="true">https://www.fgeqroo.gob.mx/storage/app/media/Servicio Social/Personas Extraviadas/20251209_AbnerAzarielCatzinMay.jpeg</guid>
       <pubDate>Tue, 09 Dec 2025 12:35:27 -0500</pubDate>
+    </item>
+    <item>
+      <title>Isidro Osorio Ramírez - Cancún, Quintana 5, Roo</title>
+      <link>https://www.fgeqroo.gob.mx/storage/app/media/Servicio Social/Personas Extraviadas/ISIDRO OSORIO RAMIREZ SS OKOK 9dic25.jpg</link>
+      <description>&lt;img src='https://www.fgeqroo.gob.mx/storage/app/media/Servicio Social/Personas Extraviadas/ISIDRO OSORIO RAMIREZ SS OKOK 9dic25.jpg' width='600' /&gt;&lt;br&gt;&lt;strong&gt;Hechos:&lt;/strong&gt; Se solicita el apoyo para la búsqueda y localización del C. ISIDRO OSORIO RAMIREZ, quien fue visto por Última vez en Cancún, Quintana Roo, mismo que se encuentra desaparecido desde el día 3 de Diciembre del 2025, sin que hasta el momento se sepa sobre su paradero. Al momento de su desaparición vestía playera verde, pantalón de e ate</description>
+      <guid isPermaLink="true">https://www.fgeqroo.gob.mx/storage/app/media/Servicio Social/Personas Extraviadas/ISIDRO OSORIO RAMIREZ SS OKOK 9dic25.jpg</guid>
+      <pubDate>Tue, 09 Dec 2025 12:34:49 -0500</pubDate>
     </item>
     <item>
       <title>Samuel Uicab Aguilar - Chunhuhub, 4 Quintana Roo. ed</title>
@@ -128,18 +128,18 @@
       <pubDate>Wed, 10 Dec 2025 12:35:39 -0500</pubDate>
     </item>
     <item>
-      <title>José Luis Pucheta Romero - Localidad de Pucté, Quintana Roo.</title>
-      <link>https://www.fgeqroo.gob.mx/storage/app/media/Servicio Social/Personas Extraviadas/20251211_JoseLuisPuchetaRomero_EXT_Act.jpeg</link>
-      <description>&lt;img src='https://www.fgeqroo.gob.mx/storage/app/media/Servicio Social/Personas Extraviadas/20251211_JoseLuisPuchetaRomero_EXT_Act.jpeg' width='600' /&gt;</description>
-      <guid isPermaLink="true">https://www.fgeqroo.gob.mx/storage/app/media/Servicio Social/Personas Extraviadas/20251211_JoseLuisPuchetaRomero_EXT_Act.jpeg</guid>
-      <pubDate>Thu, 11 Dec 2025 12:36:55 -0500</pubDate>
-    </item>
-    <item>
       <title>Filiberto Aguilar Angulo - 2025/12/11</title>
       <link>https://www.fgeqroo.gob.mx/storage/app/media/Servicio Social/Personas Extraviadas/202251211_FilibertoAguilarAngulo_EXT_ACT.jpeg</link>
       <description>&lt;img src='https://www.fgeqroo.gob.mx/storage/app/media/Servicio Social/Personas Extraviadas/202251211_FilibertoAguilarAngulo_EXT_ACT.jpeg' width='600' /&gt;</description>
       <guid isPermaLink="true">https://www.fgeqroo.gob.mx/storage/app/media/Servicio Social/Personas Extraviadas/202251211_FilibertoAguilarAngulo_EXT_ACT.jpeg</guid>
       <pubDate>Thu, 11 Dec 2025 12:37:20 -0500</pubDate>
+    </item>
+    <item>
+      <title>José Luis Pucheta Romero - Localidad de Pucté, Quintana Roo.</title>
+      <link>https://www.fgeqroo.gob.mx/storage/app/media/Servicio Social/Personas Extraviadas/20251211_JoseLuisPuchetaRomero_EXT_Act.jpeg</link>
+      <description>&lt;img src='https://www.fgeqroo.gob.mx/storage/app/media/Servicio Social/Personas Extraviadas/20251211_JoseLuisPuchetaRomero_EXT_Act.jpeg' width='600' /&gt;</description>
+      <guid isPermaLink="true">https://www.fgeqroo.gob.mx/storage/app/media/Servicio Social/Personas Extraviadas/20251211_JoseLuisPuchetaRomero_EXT_Act.jpeg</guid>
+      <pubDate>Thu, 11 Dec 2025 12:36:55 -0500</pubDate>
     </item>
     <item>
       <title>Cornelis Francois Keuning - Cancún, Quintana Roo.</title>
@@ -219,13 +219,6 @@
       <pubDate>Wed, 17 Dec 2025 12:40:56 -0500</pubDate>
     </item>
     <item>
-      <title>Roque Uscanga Aguilar - Playa Carmen, Quintana Roo.</title>
-      <link>https://www.fgeqroo.gob.mx/storage/app/media/Servicio Social/Personas Extraviadas/ROQUE USCANGA AGUILAR SS 18dic25.jpg</link>
-      <description>&lt;img src='https://www.fgeqroo.gob.mx/storage/app/media/Servicio Social/Personas Extraviadas/ROQUE USCANGA AGUILAR SS 18dic25.jpg' width='600' /&gt;&lt;br&gt;&lt;strong&gt;Hechos:&lt;/strong&gt; Se solicita el apoyo para la búsqueda y localización del C. ROQUE USCANGA AGUILAR, quien fue visto por última vez en Playa del Carmen, Quintana Roo, mismo que se encuentra desaparecido desde la fecha martes 16 de Diciembre del año 2025, sin que hasta el momento se sepa sobre su paradero.</description>
-      <guid isPermaLink="true">https://www.fgeqroo.gob.mx/storage/app/media/Servicio Social/Personas Extraviadas/ROQUE USCANGA AGUILAR SS 18dic25.jpg</guid>
-      <pubDate>Thu, 18 Dec 2025 12:41:34 -0500</pubDate>
-    </item>
-    <item>
       <title>Jorge García Villa - Felipe Carrillo. Puerto, Quintana Roo.</title>
       <link>https://www.fgeqroo.gob.mx/storage/app/media/Servicio Social/Personas Extraviadas/20251218_JorgeGarciaVilla_Ext.jpeg</link>
       <description>&lt;img src='https://www.fgeqroo.gob.mx/storage/app/media/Servicio Social/Personas Extraviadas/20251218_JorgeGarciaVilla_Ext.jpeg' width='600' /&gt;&lt;br&gt;&lt;strong&gt;Hechos:&lt;/strong&gt; Se solicita el apoyo para la búsqueda y localización del C. JORGE GARCIA VILLA, fue visto por Última vez en la ciudad de Felipe Carrilo Puerto, del municipio de Felipe Corrilo Puerto, Quintana Roo, mismo que se encuentra desaparecido desde el día 17 de diciembre del año 2025, sin que hasta el momento se sepa sobre su paradero. Al momento de su desaparición vestía una playera de cuello redondo de color</description>
@@ -238,6 +231,13 @@
       <description>&lt;img src='https://www.fgeqroo.gob.mx/storage/app/media/Servicio Social/Personas Extraviadas/20251218_JoseLuisPuchetaRomero_EXT_ACT2.jpeg' width='600' /&gt;&lt;br&gt;&lt;strong&gt;Hechos:&lt;/strong&gt; Se solicita el apoyo pora la búsqueda y localización del C. JOSÉ LUIS PUCHETA ROMERO, fue visto por ullima vez en la Localidad de Pucté, Municipio de Othón P. Blanco del Estado de Quintana Roo, mismo que se encuentra desaparecido desde el día 05 de diciembre del año 2025, sin que hasta el momento se sepa sobre su paradero. Al momento de su desoparición vestía playero de rayas negros y bloncas con tres botones al trente, pantalón de mezclilo de color azul y zapotos negros, porta una cadena de plato con el dije de una cruz diamantada y en la porte de tros tiene la letra Ly elnomore LUS.</description>
       <guid isPermaLink="true">https://www.fgeqroo.gob.mx/storage/app/media/Servicio Social/Personas Extraviadas/20251218_JoseLuisPuchetaRomero_EXT_ACT2.jpeg</guid>
       <pubDate>Thu, 18 Dec 2025 12:41:21 -0500</pubDate>
+    </item>
+    <item>
+      <title>Roque Uscanga Aguilar - Playa Carmen, Quintana Roo.</title>
+      <link>https://www.fgeqroo.gob.mx/storage/app/media/Servicio Social/Personas Extraviadas/ROQUE USCANGA AGUILAR SS 18dic25.jpg</link>
+      <description>&lt;img src='https://www.fgeqroo.gob.mx/storage/app/media/Servicio Social/Personas Extraviadas/ROQUE USCANGA AGUILAR SS 18dic25.jpg' width='600' /&gt;&lt;br&gt;&lt;strong&gt;Hechos:&lt;/strong&gt; Se solicita el apoyo para la búsqueda y localización del C. ROQUE USCANGA AGUILAR, quien fue visto por última vez en Playa del Carmen, Quintana Roo, mismo que se encuentra desaparecido desde la fecha martes 16 de Diciembre del año 2025, sin que hasta el momento se sepa sobre su paradero.</description>
+      <guid isPermaLink="true">https://www.fgeqroo.gob.mx/storage/app/media/Servicio Social/Personas Extraviadas/ROQUE USCANGA AGUILAR SS 18dic25.jpg</guid>
+      <pubDate>Thu, 18 Dec 2025 12:41:34 -0500</pubDate>
     </item>
     <item>
       <title>Carlos Tuz Pat - Tulum, Quintana Roo.</title>
@@ -275,11 +275,11 @@
       <pubDate>Sun, 28 Dec 2025 12:44:44 -0500</pubDate>
     </item>
     <item>
-      <title>Fidel Vera de la Cruz - Cancún, Quintana Roo.</title>
-      <link>https://www.fgeqroo.gob.mx/storage/app/media/Servicio Social/Personas Extraviadas/FIDEL VERA DE LA CRUZ SS 29dic25.jpg</link>
-      <description>&lt;img src='https://www.fgeqroo.gob.mx/storage/app/media/Servicio Social/Personas Extraviadas/FIDEL VERA DE LA CRUZ SS 29dic25.jpg' width='600' /&gt;&lt;br&gt;&lt;strong&gt;Hechos:&lt;/strong&gt; Se solicita el apoyo para la búsqueda y localización del C. FIDEL VERA DE LA CRUZ, quien fue visto por Última vez en Cancún, Quintana Roo, quien se encuentra desaparecido desde principios de septiembre de 2025, sin que hasta el momento se sepa sobre su paradero. Se desconoce su vestimenta al momento de su desaparición , se traslada en silla de rueda.</description>
-      <guid isPermaLink="true">https://www.fgeqroo.gob.mx/storage/app/media/Servicio Social/Personas Extraviadas/FIDEL VERA DE LA CRUZ SS 29dic25.jpg</guid>
-      <pubDate>Mon, 29 Dec 2025 12:45:22 -0500</pubDate>
+      <title>Jorge Luis Montiel Palma - Cancún, Quintana Roo.</title>
+      <link>https://www.fgeqroo.gob.mx/storage/app/media/Servicio Social/Personas Extraviadas/JORGE LUIS MONTIEL PALMA.jpeg</link>
+      <description>&lt;img src='https://www.fgeqroo.gob.mx/storage/app/media/Servicio Social/Personas Extraviadas/JORGE LUIS MONTIEL PALMA.jpeg' width='600' /&gt;&lt;br&gt;&lt;strong&gt;Hechos:&lt;/strong&gt; Se solicita el apoyo para la búsqueda y localización del C. JORGE LUIS MONTIEL PALMA, quien fue visto por última vez en Cancún, Quintana Roo, quien se encuentra desaparecido desde el 13 de diciembre del 2025, sin que hasta el momento se sepa sobre su paradero. Se desconoce su vestimenta al momento de su desaparición.</description>
+      <guid isPermaLink="true">https://www.fgeqroo.gob.mx/storage/app/media/Servicio Social/Personas Extraviadas/JORGE LUIS MONTIEL PALMA.jpeg</guid>
+      <pubDate>Mon, 29 Dec 2025 12:45:47 -0500</pubDate>
     </item>
     <item>
       <title>Leonardo Altunar Luis - Cancún, Quintana Roo.</title>
@@ -289,11 +289,11 @@
       <pubDate>Mon, 29 Dec 2025 12:45:34 -0500</pubDate>
     </item>
     <item>
-      <title>Jorge Luis Montiel Palma - Cancún, Quintana Roo.</title>
-      <link>https://www.fgeqroo.gob.mx/storage/app/media/Servicio Social/Personas Extraviadas/JORGE LUIS MONTIEL PALMA.jpeg</link>
-      <description>&lt;img src='https://www.fgeqroo.gob.mx/storage/app/media/Servicio Social/Personas Extraviadas/JORGE LUIS MONTIEL PALMA.jpeg' width='600' /&gt;&lt;br&gt;&lt;strong&gt;Hechos:&lt;/strong&gt; Se solicita el apoyo para la búsqueda y localización del C. JORGE LUIS MONTIEL PALMA, quien fue visto por última vez en Cancún, Quintana Roo, quien se encuentra desaparecido desde el 13 de diciembre del 2025, sin que hasta el momento se sepa sobre su paradero. Se desconoce su vestimenta al momento de su desaparición.</description>
-      <guid isPermaLink="true">https://www.fgeqroo.gob.mx/storage/app/media/Servicio Social/Personas Extraviadas/JORGE LUIS MONTIEL PALMA.jpeg</guid>
-      <pubDate>Mon, 29 Dec 2025 12:45:47 -0500</pubDate>
+      <title>Fidel Vera de la Cruz - Cancún, Quintana Roo.</title>
+      <link>https://www.fgeqroo.gob.mx/storage/app/media/Servicio Social/Personas Extraviadas/FIDEL VERA DE LA CRUZ SS 29dic25.jpg</link>
+      <description>&lt;img src='https://www.fgeqroo.gob.mx/storage/app/media/Servicio Social/Personas Extraviadas/FIDEL VERA DE LA CRUZ SS 29dic25.jpg' width='600' /&gt;&lt;br&gt;&lt;strong&gt;Hechos:&lt;/strong&gt; Se solicita el apoyo para la búsqueda y localización del C. FIDEL VERA DE LA CRUZ, quien fue visto por Última vez en Cancún, Quintana Roo, quien se encuentra desaparecido desde principios de septiembre de 2025, sin que hasta el momento se sepa sobre su paradero. Se desconoce su vestimenta al momento de su desaparición , se traslada en silla de rueda.</description>
+      <guid isPermaLink="true">https://www.fgeqroo.gob.mx/storage/app/media/Servicio Social/Personas Extraviadas/FIDEL VERA DE LA CRUZ SS 29dic25.jpg</guid>
+      <pubDate>Mon, 29 Dec 2025 12:45:22 -0500</pubDate>
     </item>
     <item>
       <title>Noé Martínez Martínez - Playa del Carmen, Quintana Roo.</title>
@@ -478,18 +478,18 @@
       <pubDate>Sun, 01 Mar 2026 09:23:34 -0500</pubDate>
     </item>
     <item>
-      <title>Rubén David García Gómez - Tulum, Quintana Roo.</title>
-      <link>https://www.fgeqroo.gob.mx/storage/app/media/Servicio Social/Personas Extraviadas/RUBEN DAVID GARCIA GOMEZ SS .jpg</link>
-      <description>&lt;img src='https://www.fgeqroo.gob.mx/storage/app/media/Servicio Social/Personas Extraviadas/RUBEN DAVID GARCIA GOMEZ SS .jpg' width='600' /&gt;&lt;br&gt;&lt;strong&gt;Hechos:&lt;/strong&gt; Se solicita el apoyo para la búsqueda y localización del C. RUBEN DAVID GARCIA GOMEZ, quien fue visto por última vez en Tulum, Quintana Roo, mismo que se encuentra desaparecido desde el domingo 01 de marzo del año 2026, sin que hasta el momento se sepa sobre su paradero. Al momento de su desaparición Vestía Playera Color Café, Bermuda Color Verde y Sandalias Color Verde Militar.</description>
-      <guid isPermaLink="true">https://www.fgeqroo.gob.mx/storage/app/media/Servicio Social/Personas Extraviadas/RUBEN DAVID GARCIA GOMEZ SS .jpg</guid>
-      <pubDate>Tue, 03 Mar 2026 15:20:21 -0500</pubDate>
-    </item>
-    <item>
       <title>Jesús René Corona Herrera - Chetumal, ¡Quintana Roo.</title>
       <link>https://www.fgeqroo.gob.mx/storage/app/media/Servicio Social/Personas Extraviadas/20260303_JesusReneCoronaHerrera_EXT.jpeg</link>
       <description>&lt;img src='https://www.fgeqroo.gob.mx/storage/app/media/Servicio Social/Personas Extraviadas/20260303_JesusReneCoronaHerrera_EXT.jpeg' width='600' /&gt;</description>
       <guid isPermaLink="true">https://www.fgeqroo.gob.mx/storage/app/media/Servicio Social/Personas Extraviadas/20260303_JesusReneCoronaHerrera_EXT.jpeg</guid>
       <pubDate>Tue, 03 Mar 2026 09:50:35 -0500</pubDate>
+    </item>
+    <item>
+      <title>Rubén David García Gómez - Tulum, Quintana Roo.</title>
+      <link>https://www.fgeqroo.gob.mx/storage/app/media/Servicio Social/Personas Extraviadas/RUBEN DAVID GARCIA GOMEZ SS .jpg</link>
+      <description>&lt;img src='https://www.fgeqroo.gob.mx/storage/app/media/Servicio Social/Personas Extraviadas/RUBEN DAVID GARCIA GOMEZ SS .jpg' width='600' /&gt;&lt;br&gt;&lt;strong&gt;Hechos:&lt;/strong&gt; Se solicita el apoyo para la búsqueda y localización del C. RUBEN DAVID GARCIA GOMEZ, quien fue visto por última vez en Tulum, Quintana Roo, mismo que se encuentra desaparecido desde el domingo 01 de marzo del año 2026, sin que hasta el momento se sepa sobre su paradero. Al momento de su desaparición Vestía Playera Color Café, Bermuda Color Verde y Sandalias Color Verde Militar.</description>
+      <guid isPermaLink="true">https://www.fgeqroo.gob.mx/storage/app/media/Servicio Social/Personas Extraviadas/RUBEN DAVID GARCIA GOMEZ SS .jpg</guid>
+      <pubDate>Tue, 03 Mar 2026 15:20:21 -0500</pubDate>
     </item>
     <item>
       <title>Antonio Medina Balam - La Esperanza, Quintana Roo.</title>
@@ -520,13 +520,6 @@
       <pubDate>Wed, 11 Mar 2026 12:50:30 -0500</pubDate>
     </item>
     <item>
-      <title>Lorenzo Antonio Couoh Osorio - Felipe Canillo Puerto, Quintana Roo. Edas</title>
-      <link>https://www.fgeqroo.gob.mx/storage/app/media/Servicio Social/Personas Extraviadas/20260316_LorenzoAntonioCouohOsorio_EXT.jpeg</link>
-      <description>&lt;img src='https://www.fgeqroo.gob.mx/storage/app/media/Servicio Social/Personas Extraviadas/20260316_LorenzoAntonioCouohOsorio_EXT.jpeg' width='600' /&gt;</description>
-      <guid isPermaLink="true">https://www.fgeqroo.gob.mx/storage/app/media/Servicio Social/Personas Extraviadas/20260316_LorenzoAntonioCouohOsorio_EXT.jpeg</guid>
-      <pubDate>Mon, 16 Mar 2026 09:40:30 -0500</pubDate>
-    </item>
-    <item>
       <title>Luis Daniel Kú Kauil - Tepich, Quintana Roo. '</title>
       <link>https://www.fgeqroo.gob.mx/storage/app/media/Servicio Social/Personas Extraviadas/20260316_LuisDanielKuKauil_EXT.jpeg</link>
       <description>&lt;img src='https://www.fgeqroo.gob.mx/storage/app/media/Servicio Social/Personas Extraviadas/20260316_LuisDanielKuKauil_EXT.jpeg' width='600' /&gt;&lt;br&gt;&lt;strong&gt;Hechos:&lt;/strong&gt; Se solicita el apoyo para la búsqueda y localización del C. LUIS DANIEL KU KAUIL, fue visto por última vez en la localidad de Tepich, municipio de Felipe Carrilo Puerto, Quintana Roo, mismo que se encuentra desaparecido desde el día 16 de marzo del año 2026, sin que hasta el momento se sepa sobre su paradero. Al momento de su desaparición vestía sudadera con la Virgen de Guadalupe, pantalón de mezclilla negro y sandalias blancas.</description>
@@ -534,11 +527,11 @@
       <pubDate>Mon, 16 Mar 2026 09:45:30 -0500</pubDate>
     </item>
     <item>
-      <title>Francisco Bartolo Gregorio - Puerto Morelos, Quintana Roo.</title>
-      <link>https://www.fgeqroo.gob.mx/storage/app/media/Servicio Social/Personas Extraviadas/Francisco Bartolo Gregorio SS 17marzo26.jpg</link>
-      <description>&lt;img src='https://www.fgeqroo.gob.mx/storage/app/media/Servicio Social/Personas Extraviadas/Francisco Bartolo Gregorio SS 17marzo26.jpg' width='600' /&gt;&lt;br&gt;&lt;strong&gt;Hechos:&lt;/strong&gt; Se solicita el apoyo para la búsqueda y localización del C. FRANCISCO BARTOLO GREGORIO, quien fue visto por última vez en Puerto Morelos, Quintana Roo, mismo que se encuentra desaparecido desde el 01 de noviembre del año 2022, sin que hasta el momento se sepa sobre su paradero Al momento de su desaparición se desconoce como vestía.</description>
-      <guid isPermaLink="true">https://www.fgeqroo.gob.mx/storage/app/media/Servicio Social/Personas Extraviadas/Francisco Bartolo Gregorio SS 17marzo26.jpg</guid>
-      <pubDate>Tue, 17 Mar 2026 18:20:21 -0500</pubDate>
+      <title>Lorenzo Antonio Couoh Osorio - Felipe Canillo Puerto, Quintana Roo. Edas</title>
+      <link>https://www.fgeqroo.gob.mx/storage/app/media/Servicio Social/Personas Extraviadas/20260316_LorenzoAntonioCouohOsorio_EXT.jpeg</link>
+      <description>&lt;img src='https://www.fgeqroo.gob.mx/storage/app/media/Servicio Social/Personas Extraviadas/20260316_LorenzoAntonioCouohOsorio_EXT.jpeg' width='600' /&gt;</description>
+      <guid isPermaLink="true">https://www.fgeqroo.gob.mx/storage/app/media/Servicio Social/Personas Extraviadas/20260316_LorenzoAntonioCouohOsorio_EXT.jpeg</guid>
+      <pubDate>Mon, 16 Mar 2026 09:40:30 -0500</pubDate>
     </item>
     <item>
       <title>Jorge Luis Piceno Solorio - Tulum, Quintana Roo.</title>
@@ -546,6 +539,13 @@
       <description>&lt;img src='https://www.fgeqroo.gob.mx/storage/app/media/Servicio Social/Personas Extraviadas/JORGE LUIS PICENO SOLORIO SS 17marzo26.jpg' width='600' /&gt;&lt;br&gt;&lt;strong&gt;Hechos:&lt;/strong&gt; Se solicita el apoyo para la búsqueda y localización del C. JORGE LUIS PICENO SOLORIO, quien fue visto por última vez en Tulum, Quintana Roo, mismo que se encuentra desaparecido desde la fecha 30 de Diciembre del año 2025, sin que hasta el momento se sepa sobre su paradero.</description>
       <guid isPermaLink="true">https://www.fgeqroo.gob.mx/storage/app/media/Servicio Social/Personas Extraviadas/JORGE LUIS PICENO SOLORIO SS 17marzo26.jpg</guid>
       <pubDate>Tue, 17 Mar 2026 16:25:29 -0500</pubDate>
+    </item>
+    <item>
+      <title>Francisco Bartolo Gregorio - Puerto Morelos, Quintana Roo.</title>
+      <link>https://www.fgeqroo.gob.mx/storage/app/media/Servicio Social/Personas Extraviadas/Francisco Bartolo Gregorio SS 17marzo26.jpg</link>
+      <description>&lt;img src='https://www.fgeqroo.gob.mx/storage/app/media/Servicio Social/Personas Extraviadas/Francisco Bartolo Gregorio SS 17marzo26.jpg' width='600' /&gt;&lt;br&gt;&lt;strong&gt;Hechos:&lt;/strong&gt; Se solicita el apoyo para la búsqueda y localización del C. FRANCISCO BARTOLO GREGORIO, quien fue visto por última vez en Puerto Morelos, Quintana Roo, mismo que se encuentra desaparecido desde el 01 de noviembre del año 2022, sin que hasta el momento se sepa sobre su paradero Al momento de su desaparición se desconoce como vestía.</description>
+      <guid isPermaLink="true">https://www.fgeqroo.gob.mx/storage/app/media/Servicio Social/Personas Extraviadas/Francisco Bartolo Gregorio SS 17marzo26.jpg</guid>
+      <pubDate>Tue, 17 Mar 2026 18:20:21 -0500</pubDate>
     </item>
     <item>
       <title>Eduardo Che Hernández - Tepich, Quintana Roo.</title>
@@ -653,6 +653,13 @@
       <pubDate>Sat, 04 Apr 2026 13:40:31 -0500</pubDate>
     </item>
     <item>
+      <title>Ángel Eduardo Tagle Cuxim - Felipe Carrillo Puerto, Quintana Roo.</title>
+      <link>https://www.fgeqroo.gob.mx/storage/app/media/Servicio Social/Personas Extraviadas/20260406_AngelEduardoTagleCuxim_EXT.jpeg</link>
+      <description>&lt;img src='https://www.fgeqroo.gob.mx/storage/app/media/Servicio Social/Personas Extraviadas/20260406_AngelEduardoTagleCuxim_EXT.jpeg' width='600' /&gt;&lt;br&gt;&lt;strong&gt;Hechos:&lt;/strong&gt; Se solicita el apoyo para la búsqueda y localización del C. ANGEL EDUARDO TAGLE CUXIM, fue visto por última vez en la Ciudad de Felipe Carrillo Puerto, municipio de Felipe Carrillo Puerto, Quintana Roo, mismo que se encuentra desaparecido desde el día 04 de abril del año 2026, sin que hasta el momento se sepa sobre su paradero Al momento de su desaparición vestía de playera color verde, bermuda de color</description>
+      <guid isPermaLink="true">https://www.fgeqroo.gob.mx/storage/app/media/Servicio Social/Personas Extraviadas/20260406_AngelEduardoTagleCuxim_EXT.jpeg</guid>
+      <pubDate>Mon, 06 Apr 2026 13:55:35 -0500</pubDate>
+    </item>
+    <item>
       <title>Jesús Wenceslao Alcocer Hau - Felipe Carrillo Puerto, Quintana Roo.</title>
       <link>https://www.fgeqroo.gob.mx/storage/app/media/Servicio Social/Personas Extraviadas/20260406_JesusWenceslaoAlcocerHau_EXT.jpeg</link>
       <description>&lt;img src='https://www.fgeqroo.gob.mx/storage/app/media/Servicio Social/Personas Extraviadas/20260406_JesusWenceslaoAlcocerHau_EXT.jpeg' width='600' /&gt;&lt;br&gt;&lt;strong&gt;Hechos:&lt;/strong&gt; Se solicita el apoyo para la búsqueda y localización del C. JESUS WENCESLAO ALCOCER HAL, fue visto por última vez en la Ciudad de Felipe Carrillo Puerto, municipio de Felipe Carrillo Puerto Quintana Roo, mismo que se encuentra desaparecido desde el día 04 de abril del año 2026, sin que hasta el momento se sepa sobre su paradero, Al momento de su desaparición vestía playera de manga larga con estampado miltar, bermuda de color blanco con flores negras y sandalias negras.</description>
@@ -665,13 +672,6 @@
       <description>&lt;img src='https://www.fgeqroo.gob.mx/storage/app/media/Servicio Social/Personas Extraviadas/JUAN CARLOS GARCIA GARCIA.SS 6abril26.jpg' width='600' /&gt;&lt;br&gt;&lt;strong&gt;Hechos:&lt;/strong&gt; se solicita el apoyo para la búsqueda y localización del C. JUAN CARLOS GARCIA GARCIA, quien fue visto por Úlima vez en Playa del Carmen, Quintana Roo, mismo que se encuentra desaparecido desde el 09 de sepfiembre del año 2023, sin que hasta el momento se sepa sobre su paradero. Al momento de su desaparición se desconoce que ropa vestía.</description>
       <guid isPermaLink="true">https://www.fgeqroo.gob.mx/storage/app/media/Servicio Social/Personas Extraviadas/JUAN CARLOS GARCIA GARCIA.SS 6abril26.jpg</guid>
       <pubDate>Mon, 06 Apr 2026 10:55:32 -0500</pubDate>
-    </item>
-    <item>
-      <title>Ángel Eduardo Tagle Cuxim - Felipe Carrillo Puerto, Quintana Roo.</title>
-      <link>https://www.fgeqroo.gob.mx/storage/app/media/Servicio Social/Personas Extraviadas/20260406_AngelEduardoTagleCuxim_EXT.jpeg</link>
-      <description>&lt;img src='https://www.fgeqroo.gob.mx/storage/app/media/Servicio Social/Personas Extraviadas/20260406_AngelEduardoTagleCuxim_EXT.jpeg' width='600' /&gt;&lt;br&gt;&lt;strong&gt;Hechos:&lt;/strong&gt; Se solicita el apoyo para la búsqueda y localización del C. ANGEL EDUARDO TAGLE CUXIM, fue visto por última vez en la Ciudad de Felipe Carrillo Puerto, municipio de Felipe Carrillo Puerto, Quintana Roo, mismo que se encuentra desaparecido desde el día 04 de abril del año 2026, sin que hasta el momento se sepa sobre su paradero Al momento de su desaparición vestía de playera color verde, bermuda de color</description>
-      <guid isPermaLink="true">https://www.fgeqroo.gob.mx/storage/app/media/Servicio Social/Personas Extraviadas/20260406_AngelEduardoTagleCuxim_EXT.jpeg</guid>
-      <pubDate>Mon, 06 Apr 2026 13:55:35 -0500</pubDate>
     </item>
     <item>
       <title>Juan Calcaneo Arenas - Cancún, Quintana Roo.</title>
@@ -898,18 +898,11 @@
       <pubDate>Tue, 02 Jun 2026 14:20:34 -0500</pubDate>
     </item>
     <item>
-      <title>Carlos Audomaro Solís Castro - Quintana Roo. Eda</title>
-      <link>https://www.fgeqroo.gob.mx/storage/app/media/Servicio Social/Personas Extraviadas/CARLOS AUDOMARO SOLIS CASTRO.jpeg</link>
-      <description>&lt;img src='https://www.fgeqroo.gob.mx/storage/app/media/Servicio Social/Personas Extraviadas/CARLOS AUDOMARO SOLIS CASTRO.jpeg' width='600' /&gt;</description>
-      <guid isPermaLink="true">https://www.fgeqroo.gob.mx/storage/app/media/Servicio Social/Personas Extraviadas/CARLOS AUDOMARO SOLIS CASTRO.jpeg</guid>
-      <pubDate>Wed, 03 Jun 2026 11:25:34 -0500</pubDate>
-    </item>
-    <item>
-      <title>Ángel Chang Ortega - Playa del Carmen, Quintana Roo.</title>
-      <link>https://www.fgeqroo.gob.mx/storage/app/media/Servicio Social/Personas Extraviadas/ANGEL CHAN ORTEGA SS 3junio26.jpg</link>
-      <description>&lt;img src='https://www.fgeqroo.gob.mx/storage/app/media/Servicio Social/Personas Extraviadas/ANGEL CHAN ORTEGA SS 3junio26.jpg' width='600' /&gt;&lt;br&gt;&lt;strong&gt;Hechos:&lt;/strong&gt; se solicita el apoyo para la búsqueda y localización del C. ANGEL CHANG ORTEGA, quien fue visto por última vez en Playa del Carmen Quintana Roo, mismo que se encuentra desaparecido desde el 22 de abril del año 2026, sin que hasta el momento se sepa sobre su paradero. Al momento de su desaparición vestía playera negra, pantalón negro y sandalias negras de pata de gallo.</description>
-      <guid isPermaLink="true">https://www.fgeqroo.gob.mx/storage/app/media/Servicio Social/Personas Extraviadas/ANGEL CHAN ORTEGA SS 3junio26.jpg</guid>
-      <pubDate>Wed, 03 Jun 2026 11:10:34 -0500</pubDate>
+      <title>Reyes Tomés de la Cruz - Playa del Carmen, Quintana Roo.</title>
+      <link>https://www.fgeqroo.gob.mx/storage/app/media/Servicio Social/Personas Extraviadas/REYES TOMES DE LA CRUZ SS 3junio26.jpg</link>
+      <description>&lt;img src='https://www.fgeqroo.gob.mx/storage/app/media/Servicio Social/Personas Extraviadas/REYES TOMES DE LA CRUZ SS 3junio26.jpg' width='600' /&gt;&lt;br&gt;&lt;strong&gt;Hechos:&lt;/strong&gt; Se solicita el apoyo para la búsqueda y localización del C. REYES TOMES DE LA CRUZ, quien fue visto por última vez en Playa del Carmen, Quintana Roo, mismo que se encuentra desaparecido desde la fecha 02 de Junio del año 2026, sin que hasta el momento se sepa sobre su paradero. Al momento de su desaparición vestía una playera color blanca . pantalón de mezclilla color azul y chanclas de color azul. Siconoces, has visto o sabes algo de ésta persona contáctanos o llámanos. Tel: 9848730163 BÚSQUEDA QUINTANA ROO</description>
+      <guid isPermaLink="true">https://www.fgeqroo.gob.mx/storage/app/media/Servicio Social/Personas Extraviadas/REYES TOMES DE LA CRUZ SS 3junio26.jpg</guid>
+      <pubDate>Wed, 03 Jun 2026 15:40:34 -0500</pubDate>
     </item>
     <item>
       <title>Isaías Carrillo Ramírez - Cancún, Quintana Roo.</title>
@@ -919,6 +912,13 @@
       <pubDate>Wed, 03 Jun 2026 11:00:34 -0500</pubDate>
     </item>
     <item>
+      <title>Ángel Chang Ortega - Playa del Carmen, Quintana Roo.</title>
+      <link>https://www.fgeqroo.gob.mx/storage/app/media/Servicio Social/Personas Extraviadas/ANGEL CHAN ORTEGA SS 3junio26.jpg</link>
+      <description>&lt;img src='https://www.fgeqroo.gob.mx/storage/app/media/Servicio Social/Personas Extraviadas/ANGEL CHAN ORTEGA SS 3junio26.jpg' width='600' /&gt;&lt;br&gt;&lt;strong&gt;Hechos:&lt;/strong&gt; se solicita el apoyo para la búsqueda y localización del C. ANGEL CHANG ORTEGA, quien fue visto por última vez en Playa del Carmen Quintana Roo, mismo que se encuentra desaparecido desde el 22 de abril del año 2026, sin que hasta el momento se sepa sobre su paradero. Al momento de su desaparición vestía playera negra, pantalón negro y sandalias negras de pata de gallo.</description>
+      <guid isPermaLink="true">https://www.fgeqroo.gob.mx/storage/app/media/Servicio Social/Personas Extraviadas/ANGEL CHAN ORTEGA SS 3junio26.jpg</guid>
+      <pubDate>Wed, 03 Jun 2026 11:10:34 -0500</pubDate>
+    </item>
+    <item>
       <title>Jesús Alexander Zamora Solís - Quintana Roo. Eda</title>
       <link>https://www.fgeqroo.gob.mx/storage/app/media/Servicio Social/Personas Extraviadas/JESÚS ALEXANDER ZAMORA SOLIS.jpeg</link>
       <description>&lt;img src='https://www.fgeqroo.gob.mx/storage/app/media/Servicio Social/Personas Extraviadas/JESÚS ALEXANDER ZAMORA SOLIS.jpeg' width='600' /&gt;</description>
@@ -926,11 +926,11 @@
       <pubDate>Wed, 03 Jun 2026 11:20:34 -0500</pubDate>
     </item>
     <item>
-      <title>Reyes Tomés de la Cruz - Playa del Carmen, Quintana Roo.</title>
-      <link>https://www.fgeqroo.gob.mx/storage/app/media/Servicio Social/Personas Extraviadas/REYES TOMES DE LA CRUZ SS 3junio26.jpg</link>
-      <description>&lt;img src='https://www.fgeqroo.gob.mx/storage/app/media/Servicio Social/Personas Extraviadas/REYES TOMES DE LA CRUZ SS 3junio26.jpg' width='600' /&gt;&lt;br&gt;&lt;strong&gt;Hechos:&lt;/strong&gt; Se solicita el apoyo para la búsqueda y localización del C. REYES TOMES DE LA CRUZ, quien fue visto por última vez en Playa del Carmen, Quintana Roo, mismo que se encuentra desaparecido desde la fecha 02 de Junio del año 2026, sin que hasta el momento se sepa sobre su paradero. Al momento de su desaparición vestía una playera color blanca . pantalón de mezclilla color azul y chanclas de color azul. Siconoces, has visto o sabes algo de ésta persona contáctanos o llámanos. Tel: 9848730163 BÚSQUEDA QUINTANA ROO</description>
-      <guid isPermaLink="true">https://www.fgeqroo.gob.mx/storage/app/media/Servicio Social/Personas Extraviadas/REYES TOMES DE LA CRUZ SS 3junio26.jpg</guid>
-      <pubDate>Wed, 03 Jun 2026 15:40:34 -0500</pubDate>
+      <title>Carlos Audomaro Solís Castro - Quintana Roo. Eda</title>
+      <link>https://www.fgeqroo.gob.mx/storage/app/media/Servicio Social/Personas Extraviadas/CARLOS AUDOMARO SOLIS CASTRO.jpeg</link>
+      <description>&lt;img src='https://www.fgeqroo.gob.mx/storage/app/media/Servicio Social/Personas Extraviadas/CARLOS AUDOMARO SOLIS CASTRO.jpeg' width='600' /&gt;</description>
+      <guid isPermaLink="true">https://www.fgeqroo.gob.mx/storage/app/media/Servicio Social/Personas Extraviadas/CARLOS AUDOMARO SOLIS CASTRO.jpeg</guid>
+      <pubDate>Wed, 03 Jun 2026 11:25:34 -0500</pubDate>
     </item>
     <item>
       <title>Francisco Morales Eleria - Playa del ¡Carmen, Quintana Roo.</title>
@@ -940,18 +940,18 @@
       <pubDate>Fri, 05 Jun 2026 10:50:10 -0500</pubDate>
     </item>
     <item>
-      <title>José Montiel Velázquez - Cancún, Quintana Roo.</title>
-      <link>https://www.fgeqroo.gob.mx/storage/app/media/Servicio Social/Personas Extraviadas/JOSÉ MONTIEL VELÁZQUEZ.jpeg</link>
-      <description>&lt;img src='https://www.fgeqroo.gob.mx/storage/app/media/Servicio Social/Personas Extraviadas/JOSÉ MONTIEL VELÁZQUEZ.jpeg' width='600' /&gt;&lt;br&gt;&lt;strong&gt;Hechos:&lt;/strong&gt; Se solicita el apoyo para la búsqueda y localización del C. JOSÉ MONTIEL VELAZQUEZ, quien fue visto por última vez en Cancún, Quintana Roo, quien se encuentra desaparecido desde el 03 de Mayo del 2026, sin que hasta el momento se sepa sobre su paradero. Se desconoce como vestía al momento de su desaparición.</description>
-      <guid isPermaLink="true">https://www.fgeqroo.gob.mx/storage/app/media/Servicio Social/Personas Extraviadas/JOSÉ MONTIEL VELÁZQUEZ.jpeg</guid>
-      <pubDate>Mon, 08 Jun 2026 18:05:51 -0500</pubDate>
-    </item>
-    <item>
       <title>Martín Lizárraga Poot - Cancún, Quintana Roo.</title>
       <link>https://www.fgeqroo.gob.mx/storage/app/media/Servicio Social/Personas Extraviadas/MARTIN LIZARRAGA POOT SS 8junio26.jpg</link>
       <description>&lt;img src='https://www.fgeqroo.gob.mx/storage/app/media/Servicio Social/Personas Extraviadas/MARTIN LIZARRAGA POOT SS 8junio26.jpg' width='600' /&gt;&lt;br&gt;&lt;strong&gt;Hechos:&lt;/strong&gt; Se solicita el apoyo para la búsqueda y localización del C. MARTIN LIZARRAGA POOT, quien fue visto por última vez en Cancún, Quintana Roo, quien se encuentra desaparecido desde el 01 de Junio de 2026, sin que hasta el momento se sepa sobre su paradero. Viste al momento de su desaparición Mesta playera de manga</description>
       <guid isPermaLink="true">https://www.fgeqroo.gob.mx/storage/app/media/Servicio Social/Personas Extraviadas/MARTIN LIZARRAGA POOT SS 8junio26.jpg</guid>
       <pubDate>Mon, 08 Jun 2026 16:20:09 -0500</pubDate>
+    </item>
+    <item>
+      <title>José Montiel Velázquez - Cancún, Quintana Roo.</title>
+      <link>https://www.fgeqroo.gob.mx/storage/app/media/Servicio Social/Personas Extraviadas/JOSÉ MONTIEL VELÁZQUEZ.jpeg</link>
+      <description>&lt;img src='https://www.fgeqroo.gob.mx/storage/app/media/Servicio Social/Personas Extraviadas/JOSÉ MONTIEL VELÁZQUEZ.jpeg' width='600' /&gt;&lt;br&gt;&lt;strong&gt;Hechos:&lt;/strong&gt; Se solicita el apoyo para la búsqueda y localización del C. JOSÉ MONTIEL VELAZQUEZ, quien fue visto por última vez en Cancún, Quintana Roo, quien se encuentra desaparecido desde el 03 de Mayo del 2026, sin que hasta el momento se sepa sobre su paradero. Se desconoce como vestía al momento de su desaparición.</description>
+      <guid isPermaLink="true">https://www.fgeqroo.gob.mx/storage/app/media/Servicio Social/Personas Extraviadas/JOSÉ MONTIEL VELÁZQUEZ.jpeg</guid>
+      <pubDate>Mon, 08 Jun 2026 18:05:51 -0500</pubDate>
     </item>
     <item>
       <title>Erick Arnulfo Esparza Ramírez - Cancún, Quintana Roo</title>
@@ -989,13 +989,6 @@
       <pubDate>Fri, 12 Jun 2026 15:20:11 -0500</pubDate>
     </item>
     <item>
-      <title>Jorge Alberto Pérez Ángeles - Cancún, Quintana Roo.</title>
-      <link>https://www.fgeqroo.gob.mx/storage/app/media/Servicio Social/Personas Extraviadas/JORGE ALBERTO PEREZ ANGELES SS 16junio26.jpg</link>
-      <description>&lt;img src='https://www.fgeqroo.gob.mx/storage/app/media/Servicio Social/Personas Extraviadas/JORGE ALBERTO PEREZ ANGELES SS 16junio26.jpg' width='600' /&gt;&lt;br&gt;&lt;strong&gt;Hechos:&lt;/strong&gt; Se solicita el apoyo para la búsqueda y localización del C. JORGE ALBERTO PEREZ ANGELES, quien fue visto por última vez en Cancún, Quintana Roo, quien se encuentra desaparecido desde el día 30 de Septiembre de 2024, sin que hasta el momento se sepa sobre su paradero. Se desconoce como vestía al momento de su desaparición.</description>
-      <guid isPermaLink="true">https://www.fgeqroo.gob.mx/storage/app/media/Servicio Social/Personas Extraviadas/JORGE ALBERTO PEREZ ANGELES SS 16junio26.jpg</guid>
-      <pubDate>Tue, 16 Jun 2026 19:44:19 -0500</pubDate>
-    </item>
-    <item>
       <title>Emilio de Jesús Pérez Ángeles - Cancún, Quintana Roo.</title>
       <link>https://www.fgeqroo.gob.mx/storage/app/media/Servicio Social/Personas Extraviadas/EMILIO DE JESUS PEREZ ANGELES SS 16junio26.jpg</link>
       <description>&lt;img src='https://www.fgeqroo.gob.mx/storage/app/media/Servicio Social/Personas Extraviadas/EMILIO DE JESUS PEREZ ANGELES SS 16junio26.jpg' width='600' /&gt;&lt;br&gt;&lt;strong&gt;Hechos:&lt;/strong&gt; Se solicita el apoyo para la búsqueda y localización del C. EMILIO DE JESUS PEREZ ANGELES, quien fue visto por última vez en Cancún, Quintana Roo, quien se encuentra desaparecido desde el día 30 de Septiembre de 2024, sin que hasta el momento se sepa sobre su paradero. Se desconoce como vestía al momento de su desaparición.</description>
@@ -1003,11 +996,11 @@
       <pubDate>Tue, 16 Jun 2026 19:47:15 -0500</pubDate>
     </item>
     <item>
-      <title>Ángel Israel Zúñiga Ibarra - Cancún, Quintana Roo.</title>
-      <link>https://www.fgeqroo.gob.mx/storage/app/media/Servicio Social/Personas Extraviadas/angel-israel-zuniga-ibarra-ss-17junio2026.jpg</link>
-      <description>&lt;img src='https://www.fgeqroo.gob.mx/storage/app/media/Servicio Social/Personas Extraviadas/angel-israel-zuniga-ibarra-ss-17junio2026.jpg' width='600' /&gt;&lt;br&gt;&lt;strong&gt;Hechos:&lt;/strong&gt; Se solicita el apoyo para la búsqueda y localización del C. ANGEL ISRAEL ZUÑIGA IBARRA, quien fue visto por Última vez en Cancún, Quintana Roo, quien se encuentra desaparecido desde el día 02 de junio del 2026, sin que hasta el momento se sepa sobre su paradero. Al momento de su desaparición vestía playera negra, pantalón de mezclilla negro, tenis negros con franjas blancas.</description>
-      <guid isPermaLink="true">https://www.fgeqroo.gob.mx/storage/app/media/Servicio Social/Personas Extraviadas/angel-israel-zuniga-ibarra-ss-17junio2026.jpg</guid>
-      <pubDate>Wed, 17 Jun 2026 21:44:19 -0500</pubDate>
+      <title>Jorge Alberto Pérez Ángeles - Cancún, Quintana Roo.</title>
+      <link>https://www.fgeqroo.gob.mx/storage/app/media/Servicio Social/Personas Extraviadas/JORGE ALBERTO PEREZ ANGELES SS 16junio26.jpg</link>
+      <description>&lt;img src='https://www.fgeqroo.gob.mx/storage/app/media/Servicio Social/Personas Extraviadas/JORGE ALBERTO PEREZ ANGELES SS 16junio26.jpg' width='600' /&gt;&lt;br&gt;&lt;strong&gt;Hechos:&lt;/strong&gt; Se solicita el apoyo para la búsqueda y localización del C. JORGE ALBERTO PEREZ ANGELES, quien fue visto por última vez en Cancún, Quintana Roo, quien se encuentra desaparecido desde el día 30 de Septiembre de 2024, sin que hasta el momento se sepa sobre su paradero. Se desconoce como vestía al momento de su desaparición.</description>
+      <guid isPermaLink="true">https://www.fgeqroo.gob.mx/storage/app/media/Servicio Social/Personas Extraviadas/JORGE ALBERTO PEREZ ANGELES SS 16junio26.jpg</guid>
+      <pubDate>Tue, 16 Jun 2026 19:44:19 -0500</pubDate>
     </item>
     <item>
       <title>Raúl Alberto Arjona Peraza - Cancún, Quintana Roo.</title>
@@ -1029,6 +1022,13 @@
       <description>&lt;img src='https://www.fgeqroo.gob.mx/storage/app/media/Servicio Social/Personas Extraviadas/HECTOR FRANCISCO REYES BARCELATA SS 17junio26.jpg' width='600' /&gt;&lt;br&gt;&lt;strong&gt;Hechos:&lt;/strong&gt; Se solicita el apoyo para la búsqueda y localización del C. HECTOR FRANCISCO REYES BARCELATA, quien fue visto por última vez en Playa del Carmen, Quintana Roo, mismo que se encuentra desaparecido desde el lunes 15 de junio del año 2026, sin que hasta el momento se sepa sobre su o. icana.</description>
       <guid isPermaLink="true">https://www.fgeqroo.gob.mx/storage/app/media/Servicio Social/Personas Extraviadas/HECTOR FRANCISCO REYES BARCELATA SS 17junio26.jpg</guid>
       <pubDate>Wed, 17 Jun 2026 19:54:23 -0500</pubDate>
+    </item>
+    <item>
+      <title>Ángel Israel Zúñiga Ibarra - Cancún, Quintana Roo.</title>
+      <link>https://www.fgeqroo.gob.mx/storage/app/media/Servicio Social/Personas Extraviadas/angel-israel-zuniga-ibarra-ss-17junio2026.jpg</link>
+      <description>&lt;img src='https://www.fgeqroo.gob.mx/storage/app/media/Servicio Social/Personas Extraviadas/angel-israel-zuniga-ibarra-ss-17junio2026.jpg' width='600' /&gt;&lt;br&gt;&lt;strong&gt;Hechos:&lt;/strong&gt; Se solicita el apoyo para la búsqueda y localización del C. ANGEL ISRAEL ZUÑIGA IBARRA, quien fue visto por Última vez en Cancún, Quintana Roo, quien se encuentra desaparecido desde el día 02 de junio del 2026, sin que hasta el momento se sepa sobre su paradero. Al momento de su desaparición vestía playera negra, pantalón de mezclilla negro, tenis negros con franjas blancas.</description>
+      <guid isPermaLink="true">https://www.fgeqroo.gob.mx/storage/app/media/Servicio Social/Personas Extraviadas/angel-israel-zuniga-ibarra-ss-17junio2026.jpg</guid>
+      <pubDate>Wed, 17 Jun 2026 21:44:19 -0500</pubDate>
     </item>
     <item>
       <title>Sebastián López Hernández - Cancún, Quintana Roo.</title>
@@ -1066,18 +1066,18 @@
       <pubDate>Thu, 25 Jun 2026 17:00:12 -0500</pubDate>
     </item>
     <item>
-      <title>Christian Israel Pérez Alcocer - Felipe Carrillo Puerto, Quintana Roo.</title>
-      <link>https://www.fgeqroo.gob.mx/storage/app/media/Servicio Social/Personas Extraviadas/CHRISTIAN ISRAEL PÉREZ ALCOCER.jpeg</link>
-      <description>&lt;img src='https://www.fgeqroo.gob.mx/storage/app/media/Servicio Social/Personas Extraviadas/CHRISTIAN ISRAEL PÉREZ ALCOCER.jpeg' width='600' /&gt;&lt;br&gt;&lt;strong&gt;Hechos:&lt;/strong&gt; Se solicita el apoyo pora la búsqueda y localización del C. CHRISTIAN ISRAEL PEREZ ALCOCER, fue visto por Última vez en Felipe Carrilo Puerto, Quintana Roo, mismo que se encuentra desaparecido desde el día 25 de Junio del año 202%, sin que hasta el momento se sepa sobre su paradero. Al momento de su desaparición vestía Playera tipo polo de color azul oscuro, short de mezclilla rasgado y deslavado de color azul claro y chanclas en color gris,</description>
-      <guid isPermaLink="true">https://www.fgeqroo.gob.mx/storage/app/media/Servicio Social/Personas Extraviadas/CHRISTIAN ISRAEL PÉREZ ALCOCER.jpeg</guid>
-      <pubDate>Thu, 25 Jun 2026 21:40:12 -0500</pubDate>
-    </item>
-    <item>
       <title>Jesús Adan Tuz Puc - Felipe Carrillo Puerto, Quintana Roo.</title>
       <link>https://www.fgeqroo.gob.mx/storage/app/media/Servicio Social/Personas Extraviadas/JESÚS ADAN TUZ PUC.jpeg</link>
       <description>&lt;img src='https://www.fgeqroo.gob.mx/storage/app/media/Servicio Social/Personas Extraviadas/JESÚS ADAN TUZ PUC.jpeg' width='600' /&gt;&lt;br&gt;&lt;strong&gt;Hechos:&lt;/strong&gt; Se solicita el apoyo pora la búsqueda y localización del C. JESUS ADAN TUZ PUC, fue visto por última vez en la Ciudad de Felipe Cortillo Puerto, municipio de Felipe Carrilo Puerto, Quintana Roo, mismo que se encuentra desaparecido desde el día 25 de Junio del año 2026, sin que hasta el momento se sepa sobre su paradero, Al momento de su desaparición vestía de fue visto vestía ployera de manga larga, estilo militar,</description>
       <guid isPermaLink="true">https://www.fgeqroo.gob.mx/storage/app/media/Servicio Social/Personas Extraviadas/JESÚS ADAN TUZ PUC.jpeg</guid>
       <pubDate>Thu, 25 Jun 2026 19:34:13 -0500</pubDate>
+    </item>
+    <item>
+      <title>Christian Israel Pérez Alcocer - Felipe Carrillo Puerto, Quintana Roo.</title>
+      <link>https://www.fgeqroo.gob.mx/storage/app/media/Servicio Social/Personas Extraviadas/CHRISTIAN ISRAEL PÉREZ ALCOCER.jpeg</link>
+      <description>&lt;img src='https://www.fgeqroo.gob.mx/storage/app/media/Servicio Social/Personas Extraviadas/CHRISTIAN ISRAEL PÉREZ ALCOCER.jpeg' width='600' /&gt;&lt;br&gt;&lt;strong&gt;Hechos:&lt;/strong&gt; Se solicita el apoyo pora la búsqueda y localización del C. CHRISTIAN ISRAEL PEREZ ALCOCER, fue visto por Última vez en Felipe Carrilo Puerto, Quintana Roo, mismo que se encuentra desaparecido desde el día 25 de Junio del año 202%, sin que hasta el momento se sepa sobre su paradero. Al momento de su desaparición vestía Playera tipo polo de color azul oscuro, short de mezclilla rasgado y deslavado de color azul claro y chanclas en color gris,</description>
+      <guid isPermaLink="true">https://www.fgeqroo.gob.mx/storage/app/media/Servicio Social/Personas Extraviadas/CHRISTIAN ISRAEL PÉREZ ALCOCER.jpeg</guid>
+      <pubDate>Thu, 25 Jun 2026 21:40:12 -0500</pubDate>
     </item>
     <item>
       <title>Jesse Bruzzese - Cancún, Quintana Roo.</title>
@@ -1094,18 +1094,18 @@
       <pubDate>Sat, 27 Jun 2026 17:50:12 -0500</pubDate>
     </item>
     <item>
-      <title>Paulo Enrique García Delgado - Playa del Carmen, Quintana Roo.</title>
-      <link>https://www.fgeqroo.gob.mx/storage/app/media/Servicio Social/Personas Extraviadas/PAULO ENRIQUE GARCIA DELGADO SS 29junio26.jpg</link>
-      <description>&lt;img src='https://www.fgeqroo.gob.mx/storage/app/media/Servicio Social/Personas Extraviadas/PAULO ENRIQUE GARCIA DELGADO SS 29junio26.jpg' width='600' /&gt;&lt;br&gt;&lt;strong&gt;Hechos:&lt;/strong&gt; Se solicita el apoyo para la búsqueda y localización del C. PAULO ENRIQUE GARCIA DELGADO, quien fue visto por Última vez en Playa del Camen, Quintana Roo, mismo que se encuentra desaparecido desde la fecha 22 de Junio del año 2026, sin que hasta el momento se sepa sobre su paradero. Al momento de su desaparición vestía playera color azul, con pants color gris tipo militar, y sandalias. Siconoces, has visto o sabes algo de ésta persona contáctanos o llámanos. Tel: 9848730163 BÚSQUEDA QUINTANA ROO</description>
-      <guid isPermaLink="true">https://www.fgeqroo.gob.mx/storage/app/media/Servicio Social/Personas Extraviadas/PAULO ENRIQUE GARCIA DELGADO SS 29junio26.jpg</guid>
-      <pubDate>Mon, 29 Jun 2026 17:00:18 -0500</pubDate>
-    </item>
-    <item>
       <title>José Ángel Ramírez Juárez - Cancún, Quintana Roo. Edad Actual: 45 años.</title>
       <link>https://www.fgeqroo.gob.mx/storage/app/media/Servicio Social/Personas Extraviadas/jose-angel-ramirez-juarez-ss-29junio26.jpg</link>
       <description>&lt;img src='https://www.fgeqroo.gob.mx/storage/app/media/Servicio Social/Personas Extraviadas/jose-angel-ramirez-juarez-ss-29junio26.jpg' width='600' /&gt;&lt;br&gt;&lt;strong&gt;Hechos:&lt;/strong&gt; Se solicita el apoyo para la búsqueda y localización del C. JOSE ANGEL RAMIREZ JUAREZ, quien fue visto por Última vez en Cancún, Quintana Roo, quien se encuentra desaparecido desde el día 26 de junio de 2026, sin que hasta el momento se sepa sobre su paradero. Al momento de su desaparición vestía playera de color rojo, pantalón de mezclilla, tenis de color negro de la marca NIKE.</description>
       <guid isPermaLink="true">https://www.fgeqroo.gob.mx/storage/app/media/Servicio Social/Personas Extraviadas/jose-angel-ramirez-juarez-ss-29junio26.jpg</guid>
       <pubDate>Tue, 30 Jun 2026 10:14:17 -0500</pubDate>
+    </item>
+    <item>
+      <title>Paulo Enrique García Delgado - Playa del Carmen, Quintana Roo.</title>
+      <link>https://www.fgeqroo.gob.mx/storage/app/media/Servicio Social/Personas Extraviadas/PAULO ENRIQUE GARCIA DELGADO SS 29junio26.jpg</link>
+      <description>&lt;img src='https://www.fgeqroo.gob.mx/storage/app/media/Servicio Social/Personas Extraviadas/PAULO ENRIQUE GARCIA DELGADO SS 29junio26.jpg' width='600' /&gt;&lt;br&gt;&lt;strong&gt;Hechos:&lt;/strong&gt; Se solicita el apoyo para la búsqueda y localización del C. PAULO ENRIQUE GARCIA DELGADO, quien fue visto por Última vez en Playa del Camen, Quintana Roo, mismo que se encuentra desaparecido desde la fecha 22 de Junio del año 2026, sin que hasta el momento se sepa sobre su paradero. Al momento de su desaparición vestía playera color azul, con pants color gris tipo militar, y sandalias. Siconoces, has visto o sabes algo de ésta persona contáctanos o llámanos. Tel: 9848730163 BÚSQUEDA QUINTANA ROO</description>
+      <guid isPermaLink="true">https://www.fgeqroo.gob.mx/storage/app/media/Servicio Social/Personas Extraviadas/PAULO ENRIQUE GARCIA DELGADO SS 29junio26.jpg</guid>
+      <pubDate>Mon, 29 Jun 2026 17:00:18 -0500</pubDate>
     </item>
     <item>
       <title>José Alejandro Aguilar Hernández - Cancún, Quintana Roo. Edad Actual: 23 años.</title>
@@ -1199,6 +1199,13 @@
       <pubDate>Mon, 13 Jul 2026 13:36:40 -0500</pubDate>
     </item>
     <item>
+      <title>Luis Arturo González Jiménez - Cancún, Quintan Roo. EdadActual: 31 años.</title>
+      <link>https://www.fgeqroo.gob.mx/storage/app/media/Servicio Social/Personas Extraviadas/LUIS ARTURO GONZALEZ JIMENEZ SS 14jul26.jpg</link>
+      <description>&lt;img src='https://www.fgeqroo.gob.mx/storage/app/media/Servicio Social/Personas Extraviadas/LUIS ARTURO GONZALEZ JIMENEZ SS 14jul26.jpg' width='600' /&gt;&lt;br&gt;&lt;strong&gt;Hechos:&lt;/strong&gt; Se solicita el apoyo para la búsqueda y localización del C. LUIS ARTURO GONZALEZ JIMENEZ, quien fue visto por última vez en Cancún, Quintana Roo, quien se encuentra desaparecido desde el día 05 de Julio de 2026, sin que hasta el momento se sepa sobre su paradero. Se desconoce como vestía al momento de su desaparición.</description>
+      <guid isPermaLink="true">https://www.fgeqroo.gob.mx/storage/app/media/Servicio Social/Personas Extraviadas/LUIS ARTURO GONZALEZ JIMENEZ SS 14jul26.jpg</guid>
+      <pubDate>Tue, 14 Jul 2026 21:23:05 -0500</pubDate>
+    </item>
+    <item>
       <title>Ángel Iván Romero Rosales - Felipe Carrillo Puerto, Quintana Roo</title>
       <link>https://www.fgeqroo.gob.mx/storage/app/media/Servicio Social/Personas Extraviadas/angel-ivan-romero-rosales-ss-14jul26.jpg</link>
       <description>&lt;img src='https://www.fgeqroo.gob.mx/storage/app/media/Servicio Social/Personas Extraviadas/angel-ivan-romero-rosales-ss-14jul26.jpg' width='600' /&gt;&lt;br&gt;&lt;strong&gt;Hechos:&lt;/strong&gt; Se solicita el apoyo para la búsqueda y localización del C. ÁNGEL IVÁN ROMERO ROSALES, fue visto por última vez en el Municipio de Felipe Carrillo Puerto, Quintana Roo, mismo que se encuentra desaparecido desde el día 15 de agosto del año 2024, se presume NO LOCALIZADO. Al momento de su desaparición vestía bermuda color azul con figuras de tiras color blanco, tenis color blanco.</description>
@@ -1218,13 +1225,6 @@
       <description>&lt;img src='https://www.fgeqroo.gob.mx/storage/app/media/Servicio Social/Personas Extraviadas/Marco Antonio Ramirez Reyes SS 14jul26.jpg' width='600' /&gt;&lt;br&gt;&lt;strong&gt;Hechos:&lt;/strong&gt; Se solicita el apoyo para la búsqueda y localización del C. MARCO ANTONIO RAMIREZ REYES, quien fue visto por última vez en Cancún, Quintana Roo, quien se encuentra desaparecido desde el 12 del mes de Julio de 2026, sin que hasta el momento se sepa sobre su paradero. Al momento de su desaparición vestía playera de color verde, pantalón de color azul y tenis color blanco con negro .</description>
       <guid isPermaLink="true">https://www.fgeqroo.gob.mx/storage/app/media/Servicio Social/Personas Extraviadas/Marco Antonio Ramirez Reyes SS 14jul26.jpg</guid>
       <pubDate>Tue, 14 Jul 2026 15:43:03 -0500</pubDate>
-    </item>
-    <item>
-      <title>Luis Arturo González Jiménez - Cancún, Quintan Roo. EdadActual: 31 años.</title>
-      <link>https://www.fgeqroo.gob.mx/storage/app/media/Servicio Social/Personas Extraviadas/LUIS ARTURO GONZALEZ JIMENEZ SS 14jul26.jpg</link>
-      <description>&lt;img src='https://www.fgeqroo.gob.mx/storage/app/media/Servicio Social/Personas Extraviadas/LUIS ARTURO GONZALEZ JIMENEZ SS 14jul26.jpg' width='600' /&gt;&lt;br&gt;&lt;strong&gt;Hechos:&lt;/strong&gt; Se solicita el apoyo para la búsqueda y localización del C. LUIS ARTURO GONZALEZ JIMENEZ, quien fue visto por última vez en Cancún, Quintana Roo, quien se encuentra desaparecido desde el día 05 de Julio de 2026, sin que hasta el momento se sepa sobre su paradero. Se desconoce como vestía al momento de su desaparición.</description>
-      <guid isPermaLink="true">https://www.fgeqroo.gob.mx/storage/app/media/Servicio Social/Personas Extraviadas/LUIS ARTURO GONZALEZ JIMENEZ SS 14jul26.jpg</guid>
-      <pubDate>Tue, 14 Jul 2026 21:23:05 -0500</pubDate>
     </item>
     <item>
       <title>Juan Bautista May Pacab - Playa del Carmen, Quintana Roo.</title>
@@ -1304,13 +1304,6 @@
       <pubDate>Mon, 27 Jul 2026 13:51:38 -0500</pubDate>
     </item>
     <item>
-      <title>Antonio Ruis Solís - Playa del Carmen, Solidaridad, Quintana Roo.</title>
-      <link>https://www.fgeqroo.gob.mx/storage/app/media/Servicio Social/Personas Extraviadas/Antonio Ruis Solis SS 24sep24.jpg</link>
-      <description>&lt;img src='https://www.fgeqroo.gob.mx/storage/app/media/Servicio Social/Personas Extraviadas/Antonio Ruis Solis SS 24sep24.jpg' width='600' /&gt;&lt;br&gt;&lt;strong&gt;Hechos:&lt;/strong&gt; Se solicita el apoyo para la búsqueda y localización del C. ANTONIO RUIS SOLIS, quien fue visto por última vez en Playa del Carmen, Quintana Roo, mismo que se encuentra desaparecido desde el día sábado 07 de Septiembre del año 2024, sin que hasta el momento se sepa sobre su paradero. Al momento de su desaparición vestía una playera color verde militar y pantalón azul marino de vestir y chanclas colornegro.</description>
-      <guid isPermaLink="true">https://www.fgeqroo.gob.mx/storage/app/media/Servicio Social/Personas Extraviadas/Antonio Ruis Solis SS 24sep24.jpg</guid>
-      <pubDate>Tue, 28 Jul 2026 17:53:04 -0500</pubDate>
-    </item>
-    <item>
       <title>José Eduardo Chablé Rueda - Cancún, Quintana Roo.</title>
       <link>https://www.fgeqroo.gob.mx/storage/app/media/Servicio Social/Personas Extraviadas/JOSE EDUARDO CHABLE RUEDA.jpeg</link>
       <description>&lt;img src='https://www.fgeqroo.gob.mx/storage/app/media/Servicio Social/Personas Extraviadas/JOSE EDUARDO CHABLE RUEDA.jpeg' width='600' /&gt;&lt;br&gt;&lt;strong&gt;Hechos:&lt;/strong&gt; Se solicita el apoyo para la búsqueda y localización del C. JOSE EDUARDO CHABLE RUEDA, quien fue visto por Última vez en Cancún, Quintana Roo, quien se encuentra desaparecido desde el 20 del mes de Julio de 2026, sin que hasta el momento se sepa sobre su paradero. Al momento de su desaparición vestía una playera de color gris, short de color blanco, tenis de color beige, una gorra de color verde.</description>
@@ -1318,11 +1311,25 @@
       <pubDate>Tue, 28 Jul 2026 13:50:16 -0500</pubDate>
     </item>
     <item>
+      <title>Antonio Ruis Solís - Playa del Carmen, Solidaridad, Quintana Roo.</title>
+      <link>https://www.fgeqroo.gob.mx/storage/app/media/Servicio Social/Personas Extraviadas/Antonio Ruis Solis SS 24sep24.jpg</link>
+      <description>&lt;img src='https://www.fgeqroo.gob.mx/storage/app/media/Servicio Social/Personas Extraviadas/Antonio Ruis Solis SS 24sep24.jpg' width='600' /&gt;&lt;br&gt;&lt;strong&gt;Hechos:&lt;/strong&gt; Se solicita el apoyo para la búsqueda y localización del C. ANTONIO RUIS SOLIS, quien fue visto por última vez en Playa del Carmen, Quintana Roo, mismo que se encuentra desaparecido desde el día sábado 07 de Septiembre del año 2024, sin que hasta el momento se sepa sobre su paradero. Al momento de su desaparición vestía una playera color verde militar y pantalón azul marino de vestir y chanclas colornegro.</description>
+      <guid isPermaLink="true">https://www.fgeqroo.gob.mx/storage/app/media/Servicio Social/Personas Extraviadas/Antonio Ruis Solis SS 24sep24.jpg</guid>
+      <pubDate>Tue, 28 Jul 2026 17:53:04 -0500</pubDate>
+    </item>
+    <item>
       <title>Eliud Lahad Yama Hernández - Tulum, Quintana Roo.</title>
       <link>https://www.fgeqroo.gob.mx/storage/app/media/Servicio Social/Personas Extraviadas/ELIUD LAHAD YAMA HERNANDEZ SS 28jul26.jpg</link>
       <description>&lt;img src='https://www.fgeqroo.gob.mx/storage/app/media/Servicio Social/Personas Extraviadas/ELIUD LAHAD YAMA HERNANDEZ SS 28jul26.jpg' width='600' /&gt;&lt;br&gt;&lt;strong&gt;Hechos:&lt;/strong&gt; Se solicita el apoyo para la búsqueda y localización del C. ELIUD LAHAD YAMA HERNANDEZ, quien fue visto por última vez en Tulum, Quintana Roo, quien se encuentra desaparecido desde el 13 del mes de mayo de 2026, sin que hasta el momento se sepa sobre su paradero. Se desconoce su vestimenta al momento de su desaparición.</description>
       <guid isPermaLink="true">https://www.fgeqroo.gob.mx/storage/app/media/Servicio Social/Personas Extraviadas/ELIUD LAHAD YAMA HERNANDEZ SS 28jul26.jpg</guid>
       <pubDate>Tue, 28 Jul 2026 19:33:01 -0500</pubDate>
+    </item>
+    <item>
+      <title>Martín Pérez Ojeda - Cancún, Quintana Roo.</title>
+      <link>https://www.fgeqroo.gob.mx/storage/app/media/Servicio Social/Personas Extraviadas/MARTIN PEREZ OJEDA.jpeg</link>
+      <description>&lt;img src='https://www.fgeqroo.gob.mx/storage/app/media/Servicio Social/Personas Extraviadas/MARTIN PEREZ OJEDA.jpeg' width='600' /&gt;&lt;br&gt;&lt;strong&gt;Hechos:&lt;/strong&gt; Se solicita el apoyo para la búsqueda y localización del C. MARTIN PEREZ OJEDA, quien fue visto por Última vez en Cancún, Quintana Roo, quien se encuentra desaparecido desde el 28 del mes de Julio de 2026, sin que hasta el momento se sepa sobre su paradero. Al momento de su desaparición vestía bermuda de color verde pistache, playera de color rosa claro, tenis de color negro.</description>
+      <guid isPermaLink="true">https://www.fgeqroo.gob.mx/storage/app/media/Servicio Social/Personas Extraviadas/MARTIN PEREZ OJEDA.jpeg</guid>
+      <pubDate>Wed, 29 Jul 2026 14:50:14 -0500</pubDate>
     </item>
     <item>
       <title>Miguel Ángel Capelin Pech - Bacalar, Quintana Roo.</title>
