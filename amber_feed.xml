@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>es</language>
-    <lastBuildDate>Fri, 28 Aug 2026 21:23:19 -0500</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 09:24:02 -0500</lastBuildDate>
     <item>
       <title>José Alberto May Pat - Señor, Quintana Roo.</title>
       <link>https://www.fgeqroo.gob.mx/storage/app/media/Servicio Social/Amber/20260414_JoseAlbertoMayPat_AA.jpeg</link>
@@ -65,6 +65,13 @@
       <pubDate>Sun, 24 May 2026 18:00:01 -0500</pubDate>
     </item>
     <item>
+      <title>Jesús Erick Ruiz Meléndez - 2026/05/26</title>
+      <link>https://www.fgeqroo.gob.mx/storage/app/media/Servicio Social/Recompensas/Jesús Erick Ruiz Meléndez.jpg</link>
+      <description>&lt;img src='https://www.fgeqroo.gob.mx/storage/app/media/Servicio Social/Recompensas/Jesús Erick Ruiz Meléndez.jpg' width='600' /&gt;</description>
+      <guid isPermaLink="true">https://www.fgeqroo.gob.mx/storage/app/media/Servicio Social/Recompensas/Jesús Erick Ruiz Meléndez.jpg</guid>
+      <pubDate>Tue, 26 May 2026 04:54:36 -0500</pubDate>
+    </item>
+    <item>
       <title>Javier Gómez Pérez - 2026/05/26</title>
       <link>https://www.fgeqroo.gob.mx/storage/app/media/Servicio Social/Recompensas/Javier Gómez Pérez.jpg</link>
       <description>&lt;img src='https://www.fgeqroo.gob.mx/storage/app/media/Servicio Social/Recompensas/Javier Gómez Pérez.jpg' width='600' /&gt;</description>
@@ -72,18 +79,11 @@
       <pubDate>Tue, 26 May 2026 19:22:06 -0500</pubDate>
     </item>
     <item>
-      <title>Alex Alberto Poot Poot - 2026/05/26</title>
-      <link>https://www.fgeqroo.gob.mx/storage/app/media/Servicio Social/Recompensas/Alex Alberto Poot Poot.jpg</link>
-      <description>&lt;img src='https://www.fgeqroo.gob.mx/storage/app/media/Servicio Social/Recompensas/Alex Alberto Poot Poot.jpg' width='600' /&gt;</description>
-      <guid isPermaLink="true">https://www.fgeqroo.gob.mx/storage/app/media/Servicio Social/Recompensas/Alex Alberto Poot Poot.jpg</guid>
-      <pubDate>Tue, 26 May 2026 12:08:21 -0500</pubDate>
-    </item>
-    <item>
-      <title>Jesús Erick Ruiz Meléndez - 2026/05/26</title>
-      <link>https://www.fgeqroo.gob.mx/storage/app/media/Servicio Social/Recompensas/Jesús Erick Ruiz Meléndez.jpg</link>
-      <description>&lt;img src='https://www.fgeqroo.gob.mx/storage/app/media/Servicio Social/Recompensas/Jesús Erick Ruiz Meléndez.jpg' width='600' /&gt;</description>
-      <guid isPermaLink="true">https://www.fgeqroo.gob.mx/storage/app/media/Servicio Social/Recompensas/Jesús Erick Ruiz Meléndez.jpg</guid>
-      <pubDate>Tue, 26 May 2026 04:54:36 -0500</pubDate>
+      <title>Juan de Dios Huerta Cambranis Cambranis - 2026/05/26</title>
+      <link>https://www.fgeqroo.gob.mx/storage/app/media/Servicio Social/Recompensas/Juan de Dios Huerta Cambranis.jpg</link>
+      <description>&lt;img src='https://www.fgeqroo.gob.mx/storage/app/media/Servicio Social/Recompensas/Juan de Dios Huerta Cambranis.jpg' width='600' /&gt;</description>
+      <guid isPermaLink="true">https://www.fgeqroo.gob.mx/storage/app/media/Servicio Social/Recompensas/Juan de Dios Huerta Cambranis.jpg</guid>
+      <pubDate>Tue, 26 May 2026 14:27:05 -0500</pubDate>
     </item>
     <item>
       <title>Elmer Axel Balam Poot - 2026/05/26</title>
@@ -93,11 +93,11 @@
       <pubDate>Tue, 26 May 2026 21:40:50 -0500</pubDate>
     </item>
     <item>
-      <title>Juan de Dios Huerta Cambranis Cambranis - 2026/05/26</title>
-      <link>https://www.fgeqroo.gob.mx/storage/app/media/Servicio Social/Recompensas/Juan de Dios Huerta Cambranis.jpg</link>
-      <description>&lt;img src='https://www.fgeqroo.gob.mx/storage/app/media/Servicio Social/Recompensas/Juan de Dios Huerta Cambranis.jpg' width='600' /&gt;</description>
-      <guid isPermaLink="true">https://www.fgeqroo.gob.mx/storage/app/media/Servicio Social/Recompensas/Juan de Dios Huerta Cambranis.jpg</guid>
-      <pubDate>Tue, 26 May 2026 14:27:05 -0500</pubDate>
+      <title>Alex Alberto Poot Poot - 2026/05/26</title>
+      <link>https://www.fgeqroo.gob.mx/storage/app/media/Servicio Social/Recompensas/Alex Alberto Poot Poot.jpg</link>
+      <description>&lt;img src='https://www.fgeqroo.gob.mx/storage/app/media/Servicio Social/Recompensas/Alex Alberto Poot Poot.jpg' width='600' /&gt;</description>
+      <guid isPermaLink="true">https://www.fgeqroo.gob.mx/storage/app/media/Servicio Social/Recompensas/Alex Alberto Poot Poot.jpg</guid>
+      <pubDate>Tue, 26 May 2026 12:08:21 -0500</pubDate>
     </item>
     <item>
       <title>Kimberly Alin Aguilar Arias - Cancún, Quintana Roo.</title>
@@ -128,18 +128,18 @@
       <pubDate>Tue, 09 Jun 2026 16:18:03 -0500</pubDate>
     </item>
     <item>
-      <title>Johan Josué Falcón Caballero - Cancún, Quintana Roo.</title>
-      <link>https://www.fgeqroo.gob.mx/storage/app/media/Servicio Social/Amber/johan-josue-falxon-caballero-amber-11junio2026.jpg</link>
-      <description>&lt;img src='https://www.fgeqroo.gob.mx/storage/app/media/Servicio Social/Amber/johan-josue-falxon-caballero-amber-11junio2026.jpg' width='600' /&gt;&lt;br&gt;&lt;strong&gt;Hechos:&lt;/strong&gt; Se solicita el apoyo para la búsqueda y localización del adolescente JOHAN JOSUE FALCON CABALLERO, quien fue visto por última vez el 10 de junio del 2026, en Cancún, Quintana Roo. Se presume No Localizada. Al momento de su desaparición vestía playera roja tipo polo y pantalón Capri negro.</description>
-      <guid isPermaLink="true">https://www.fgeqroo.gob.mx/storage/app/media/Servicio Social/Amber/johan-josue-falxon-caballero-amber-11junio2026.jpg</guid>
-      <pubDate>Thu, 11 Jun 2026 16:20:02 -0500</pubDate>
-    </item>
-    <item>
       <title>Ricardo San Germán Samaniego - Chetumal, Quintana Roo.</title>
       <link>https://www.fgeqroo.gob.mx/storage/app/media/Servicio Social/Amber/RICARDO SAN GERMÁN SAMANIEGO AMBER.jpeg</link>
       <description>&lt;img src='https://www.fgeqroo.gob.mx/storage/app/media/Servicio Social/Amber/RICARDO SAN GERMÁN SAMANIEGO AMBER.jpeg' width='600' /&gt;&lt;br&gt;&lt;strong&gt;Hechos:&lt;/strong&gt; Se solicita el apoyo para la búsqueda y localización del adolescente RICARDO SAN GERMÁN SAMANIEGO, quien fue visto por última vez el día 11 de junio del 2026, en la Ciudad de Chetumal, Municipio de Othón P. Blanco, Quintana Roo, se presume NO LOCALIZADO. Al momento de su desaparición vestía playera color negro y pantalón de mezclilla color azul oscuro. La Ley General en Matera de Desaparición Forzada de Personas, Desaparición Cometida por Partculares y del ma Nacional de Búsqueda de Personas señala stculo 4. Para efectos de esta Ley se entiende por XVIL Persona No Localizada: ala persona cuya ubicación es desconocida y que de acuerdo con a nformación que sereport ala autoridad, su ausencia no se retaciona con la probabe comisión de algún delito... FGEQROO: 983 83 50050 Ext. 1132 Búsqueda QRoo</description>
       <guid isPermaLink="true">https://www.fgeqroo.gob.mx/storage/app/media/Servicio Social/Amber/RICARDO SAN GERMÁN SAMANIEGO AMBER.jpeg</guid>
       <pubDate>Thu, 11 Jun 2026 20:20:02 -0500</pubDate>
+    </item>
+    <item>
+      <title>Johan Josué Falcón Caballero - Cancún, Quintana Roo.</title>
+      <link>https://www.fgeqroo.gob.mx/storage/app/media/Servicio Social/Amber/johan-josue-falxon-caballero-amber-11junio2026.jpg</link>
+      <description>&lt;img src='https://www.fgeqroo.gob.mx/storage/app/media/Servicio Social/Amber/johan-josue-falxon-caballero-amber-11junio2026.jpg' width='600' /&gt;&lt;br&gt;&lt;strong&gt;Hechos:&lt;/strong&gt; Se solicita el apoyo para la búsqueda y localización del adolescente JOHAN JOSUE FALCON CABALLERO, quien fue visto por última vez el 10 de junio del 2026, en Cancún, Quintana Roo. Se presume No Localizada. Al momento de su desaparición vestía playera roja tipo polo y pantalón Capri negro.</description>
+      <guid isPermaLink="true">https://www.fgeqroo.gob.mx/storage/app/media/Servicio Social/Amber/johan-josue-falxon-caballero-amber-11junio2026.jpg</guid>
+      <pubDate>Thu, 11 Jun 2026 16:20:02 -0500</pubDate>
     </item>
     <item>
       <title>María Fernanda Torres Mayo - Chetumal, Quintana Roo.</title>
@@ -247,18 +247,18 @@
       <pubDate>Thu, 30 Jul 2026 16:23:33 -0500</pubDate>
     </item>
     <item>
-      <title>Emma Solís Aldana - Cancún, Quintana Roo.</title>
-      <link>https://www.fgeqroo.gob.mx/storage/app/media/Servicio Social/Amber/EMMA SOLIS ALDANA  OK OK.jpeg</link>
-      <description>&lt;img src='https://www.fgeqroo.gob.mx/storage/app/media/Servicio Social/Amber/EMMA SOLIS ALDANA  OK OK.jpeg' width='600' /&gt;&lt;br&gt;&lt;strong&gt;Hechos:&lt;/strong&gt; Se solicita el apoyo para la búsqueda y localización de la menor , quien fue vista por última vez el 15 de agosto del 2026, en Cancún, Quintana Roo. Se presume NO LOCALIZADA. Viste al momento de su desaparición vestido sin mangas, sombrero blanco con manchas de color negro y sandalias.</description>
-      <guid isPermaLink="true">https://www.fgeqroo.gob.mx/storage/app/media/Servicio Social/Amber/EMMA SOLIS ALDANA  OK OK.jpeg</guid>
-      <pubDate>Sun, 16 Aug 2026 07:13:20 -0500</pubDate>
-    </item>
-    <item>
       <title>Megan Daniela Serrano Martínez - Cancún, Quintana Roo. -</title>
       <link>https://www.fgeqroo.gob.mx/storage/app/media/Servicio Social/Amber/MEGAN DANIELA SERRANO MARTINEZ Amber 16agos26.jpg</link>
       <description>&lt;img src='https://www.fgeqroo.gob.mx/storage/app/media/Servicio Social/Amber/MEGAN DANIELA SERRANO MARTINEZ Amber 16agos26.jpg' width='600' /&gt;&lt;br&gt;&lt;strong&gt;Hechos:&lt;/strong&gt; Se solicita el apoyo para la búsqueda y localización de la adolescente MEGAN DANIELA SERRANO MARTINEZ, quien fue vista por última vez el 14 de agosto del 2026, en Cancún, Quintana Roo. Se presume NO LOCALIZADA. Viste al momento de su desaparición blusa de manga larga de color gris, pantalón tipo leggins de color gris y crocs de color negro.</description>
       <guid isPermaLink="true">https://www.fgeqroo.gob.mx/storage/app/media/Servicio Social/Amber/MEGAN DANIELA SERRANO MARTINEZ Amber 16agos26.jpg</guid>
       <pubDate>Sun, 16 Aug 2026 23:59:35 -0500</pubDate>
+    </item>
+    <item>
+      <title>Emma Solís Aldana - Cancún, Quintana Roo.</title>
+      <link>https://www.fgeqroo.gob.mx/storage/app/media/Servicio Social/Amber/EMMA SOLIS ALDANA  OK OK.jpeg</link>
+      <description>&lt;img src='https://www.fgeqroo.gob.mx/storage/app/media/Servicio Social/Amber/EMMA SOLIS ALDANA  OK OK.jpeg' width='600' /&gt;&lt;br&gt;&lt;strong&gt;Hechos:&lt;/strong&gt; Se solicita el apoyo para la búsqueda y localización de la menor , quien fue vista por última vez el 15 de agosto del 2026, en Cancún, Quintana Roo. Se presume NO LOCALIZADA. Viste al momento de su desaparición vestido sin mangas, sombrero blanco con manchas de color negro y sandalias.</description>
+      <guid isPermaLink="true">https://www.fgeqroo.gob.mx/storage/app/media/Servicio Social/Amber/EMMA SOLIS ALDANA  OK OK.jpeg</guid>
+      <pubDate>Sun, 16 Aug 2026 07:13:20 -0500</pubDate>
     </item>
     <item>
       <title>Paola Álvarez Vázquez - Cancún, Quintana Roo.</title>
@@ -282,13 +282,6 @@
       <pubDate>Wed, 19 Aug 2026 02:18:19 -0500</pubDate>
     </item>
     <item>
-      <title>Blanca Yamili Maldonado Uitzil - Cancún, Quintana Roo.</title>
-      <link>https://www.fgeqroo.gob.mx/storage/app/media/Servicio Social/Amber/BLANCA YAMILI MALDONADO UITZIL Amber 19agos26.jpg</link>
-      <description>&lt;img src='https://www.fgeqroo.gob.mx/storage/app/media/Servicio Social/Amber/BLANCA YAMILI MALDONADO UITZIL Amber 19agos26.jpg' width='600' /&gt;&lt;br&gt;&lt;strong&gt;Hechos:&lt;/strong&gt; Se solicita el apoyo para la búsqueda y localización de la adolescente BLANCA YAMILI MALDONADO UITZIL, quien fue vista por última vez el día 12 de Agosto de 2026, en Cancún, Quintana Roo. Se presume NO LOCALIZADO. Al momento de su desaparición vestía sueter gris y short de mezclilla.</description>
-      <guid isPermaLink="true">https://www.fgeqroo.gob.mx/storage/app/media/Servicio Social/Amber/BLANCA YAMILI MALDONADO UITZIL Amber 19agos26.jpg</guid>
-      <pubDate>Wed, 19 Aug 2026 19:04:34 -0500</pubDate>
-    </item>
-    <item>
       <title>José Carlos Chim Arias - Ocozocoautla Espinoza, Estado de Chiapas.</title>
       <link>https://www.fgeqroo.gob.mx/storage/app/media/Servicio Social/Amber/JOSE CARLOS CHIM ARIAS.jpeg</link>
       <description>&lt;img src='https://www.fgeqroo.gob.mx/storage/app/media/Servicio Social/Amber/JOSE CARLOS CHIM ARIAS.jpeg' width='600' /&gt;</description>
@@ -301,6 +294,20 @@
       <description>&lt;img src='https://www.fgeqroo.gob.mx/storage/app/media/Servicio Social/Amber/DXIBASI SOLANGE HOY LOPEZ amber loc.jpeg' width='600' /&gt;&lt;br&gt;&lt;strong&gt;Hechos:&lt;/strong&gt; Se solicita el apoyo para la búsqueda y localización de la adolescente DXIBASI SOLANGE HOY LOPEZ, quien fue vista por última vez el día 27 de Agosto de 2026, en Puerto Morelos, Quintana Roo. Se presume NO LOCALIZADA. Al momento de su desaparición vestía blusa blanca de flores pequeñas, short azul mezclilla y sandalias La Ley General en Mateña de Desapación Forzada de Pesonas, Desaparición Cometa por Partculares y del Siena Naciona de Búsquedade Personas señal "Articulo. Para setos de esa Ley se entnde por XV1 Persona No Localizada: ala persona cuya cación es desconoció y quede acudo con la infomación que se reporte la atondad, su ausencia o e relacinacon la rbabl comió de algún et; FGEQROO: 998 881 7150 EXT. 2130 E] Búsqueda Qroo.</description>
       <guid isPermaLink="true">https://www.fgeqroo.gob.mx/storage/app/media/Servicio Social/Amber/DXIBASI SOLANGE HOY LOPEZ amber loc.jpeg</guid>
       <pubDate>Fri, 28 Aug 2026 04:37:04 -0500</pubDate>
+    </item>
+    <item>
+      <title>Lizbeth Irasema Velasco Pérez - Playa del Carmen, Quintana Roo.</title>
+      <link>https://www.fgeqroo.gob.mx/storage/app/media/Servicio Social/Amber/LIZBETH IRASEMA VELASCO LOPEZ. amber.jpeg</link>
+      <description>&lt;img src='https://www.fgeqroo.gob.mx/storage/app/media/Servicio Social/Amber/LIZBETH IRASEMA VELASCO LOPEZ. amber.jpeg' width='600' /&gt;&lt;br&gt;&lt;strong&gt;Hechos:&lt;/strong&gt; Se solicita el apoyo para la búsqueda y localización de la adolescente LIZBETH IRASEMA VELASCO PEREZ, quien fue vista por última vez en Playa del Carmen, Quintana Roo, el domingo 30 de agosto del año 2026. Se presume NO LOCALIZADA. Al momento de su desaparición vestía Blusa Blanca Con Rayas Amarillas.</description>
+      <guid isPermaLink="true">https://www.fgeqroo.gob.mx/storage/app/media/Servicio Social/Amber/LIZBETH IRASEMA VELASCO LOPEZ. amber.jpeg</guid>
+      <pubDate>Sun, 30 Aug 2026 22:02:17 -0500</pubDate>
+    </item>
+    <item>
+      <title>Ami María Martínez Ramírez - Cancún, Quintana Roo.</title>
+      <link>https://www.fgeqroo.gob.mx/storage/app/media/Servicio Social/Amber/AMI MARIA MARTINEZ RAMIREZ amber.jpeg</link>
+      <description>&lt;img src='https://www.fgeqroo.gob.mx/storage/app/media/Servicio Social/Amber/AMI MARIA MARTINEZ RAMIREZ amber.jpeg' width='600' /&gt;&lt;br&gt;&lt;strong&gt;Hechos:&lt;/strong&gt; Se solicita el apoyo para la búsqueda y localización de la adolescente AMI MARIA MARTINEZ RAMIREZ, quien fue vista por última vez el 29 de agosto del 2026, en Cancún, Quintana Roo. Se presume NO LOCALIZADA. Viste al momento de su desaparición playera de cuello redondo de color blanco con azul con la leyenda de Romario, short de licra de color negro y sandalias de color blanco.</description>
+      <guid isPermaLink="true">https://www.fgeqroo.gob.mx/storage/app/media/Servicio Social/Amber/AMI MARIA MARTINEZ RAMIREZ amber.jpeg</guid>
+      <pubDate>Sun, 30 Aug 2026 03:43:09 -0500</pubDate>
     </item>
   </channel>
 </rss>
