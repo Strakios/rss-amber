@@ -154,10 +154,50 @@ TIPOS = {
     },
 
 
-    "localizados": {
+    "amber-localizados": {
 
         "titulo":
-            "Localizados Alba Quintana Roo",
+            "Localizados Amber Quintana Roo",
+
+        "descripcion":
+            "RSS de Alerta Amber Localizados "
+            "en Quintana Roo",
+
+        "url":
+            BASE_URL +
+            "/alerta-amber-localizadas/amber",
+
+        "rss":
+            "localizados_amber.xml",
+
+        "ocr":
+            False
+    },
+    
+    "extraviados-localizados": {
+
+        "titulo":
+            "Extraviados-Localizados Quintana Roo",
+
+        "descripcion":
+            "RSS de Personas desaparecidas Localizadas "
+            "en Quintana Roo",
+
+        "url":
+            BASE_URL +
+            "/extraviadas-localizadas/Extraviado",
+
+        "rss":
+            "localizados_extraviados.xml",
+
+        "ocr":
+            False
+    },
+    
+        "alba-localizados": {
+
+        "titulo":
+            "Localizados Protocolo Alba Quintana Roo",
 
         "descripcion":
             "RSS de Protocolos Alba Localizados "
@@ -172,7 +212,7 @@ TIPOS = {
 
         "ocr":
             False
-    }
+    },
 }
 
 
